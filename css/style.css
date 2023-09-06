@@ -1,0 +1,38 @@
+.container {
+  max-width: 1846px;
+  margin: 0 auto;
+}
+
+.dashboard-area {
+  padding-right: 196px;
+}
+
+.inventory-area div {
+  border: 2px solid gray;
+  padding: 25px 245px 24px 27px;
+}
+
+.table-area {
+  overflow-x: auto;
+  border: 1px solid gray;
+}
+
+.table-header {
+  padding: 12px 11px;
+}
+
+.table-header input {
+  padding: 9px 166px 11px 40px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td,
+tr {
+  border: 1px solid hsl(0, 2%, 53%);
+  text-align: left;
+  padding: 8px;
+}
